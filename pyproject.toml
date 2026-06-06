@@ -11,4 +11,5 @@ dependencies = [
     "seaborn",
     "ipykernel",
     "yfinance",
+    "scikit-learn",
 ]
