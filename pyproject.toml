@@ -13,5 +13,10 @@ dependencies = [
     "yfinance",
     "scikit-learn",
     "google-genai",
-    "python-dotenv",
+    "dotenv",
+    "transformers",
+    "datasets",
+    "torch",
+    "accelerate",
+    "streamlit",
 ]
