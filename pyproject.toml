@@ -12,4 +12,6 @@ dependencies = [
     "ipykernel",
     "yfinance",
     "scikit-learn",
+    "google-genai",
+    "python-dotenv",
 ]
