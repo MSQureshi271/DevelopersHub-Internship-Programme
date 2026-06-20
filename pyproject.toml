@@ -15,8 +15,8 @@ dependencies = [
     "google-genai",
     "dotenv",
     "transformers",
-    "datasets",
     "torch",
     "accelerate",
     "streamlit",
+    "datasets"
 ]
