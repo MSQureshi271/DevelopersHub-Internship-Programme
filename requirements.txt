@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+yfinance
+scikit-learn
+google-genai
+python-dotenv
+transformers
+torch
+accelerate
+streamlit
+datasets
+safetensors
+xgboost
+imbalanced-learn
